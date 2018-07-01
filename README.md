@@ -2,6 +2,6 @@
 
 Project halted 
 
-Will restart during summer break. (May-Aug)
+Will restart during summer break. (May(cross out) Jul-Aug) 
 
 -->Need more content 
