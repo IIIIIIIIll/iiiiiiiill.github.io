@@ -1,7 +1,7 @@
 # iiiiiiiill.github.io
 
-Project halted 
+~~Project halted 
 
 Will restart during summer break. (May(cross out) Jul-Aug) 
 
--->Need more content 
+-->Need more content
