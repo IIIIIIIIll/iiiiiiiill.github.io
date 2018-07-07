@@ -1,325 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23bc87e6-31a5-4420-be6c-bd5db5fa54a1" name="Default" comment="Theme selection">
-      <change afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CHECKLIST.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README-zh.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_data/authors.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_data/licenses.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_data/locale.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_data/variables.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/analytics-providers/custom.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/analytics-providers/google.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/analytics.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/article-footer/custom.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/article-footer/license.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/article-info.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/aside/toc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/author-profile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/comments-providers/custom.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/comments-providers/disqus.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/comments-providers/gitalk.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/comments.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/follow-me.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/markdown-enhancements.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/markdown-enhancements/chart.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/markdown-enhancements/mathjax.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/markdown-enhancements/mermaid.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/pageview-providers/custom.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/pageview-providers/custom/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/pageview-providers/custom/post.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/pageview-providers/leancloud/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/pageview-providers/leancloud/leancloud.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/pageview-providers/leancloud/post.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/pageview.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/scripts/archieve.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/scripts/article-list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/scripts/article.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/scripts/aside/affix.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/scripts/aside/toc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/scripts/common.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/scripts/home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/scripts/lib/affix.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/scripts/lib/lazyload.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/scripts/lib/scroll.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/scripts/lib/throttle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/scripts/lib/toc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/scripts/page.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/scripts/sidebar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/scripts/utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/scripts/variables.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/sidebar/toc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/snippets/assign.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/snippets/get-lang.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/snippets/get-nav-url.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/snippets/get-sources.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/snippets/locale-to-string.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/snippets/page-title.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/snippets/page-url.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/snippets/prepend-baseurl.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/snippets/to-boolean.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/svg/icon/social/behance.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/svg/icon/social/douban.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/svg/icon/social/facebook.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/svg/icon/social/flicker.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/svg/icon/social/github.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/svg/icon/social/googleplus.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/svg/icon/social/linkedin.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/svg/icon/social/mail.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/svg/icon/social/pinterest.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/svg/icon/social/qq.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/svg/icon/social/twitter.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/svg/icon/social/weibo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/svg/icon/social/weixin.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/svg/icon/social/zhihu.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/svg/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/tags.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_layouts/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_layouts/archive.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_layouts/article.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_layouts/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_layouts/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_layouts/landing.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_layouts/none.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_layouts/page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2018-07-01-welcome.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/additional/_alert.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/additional/_photo-frame.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/animate/_fade-in-down.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/animate/_fade-in.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/common/_classes.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/common/_function.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/common/_highlighting.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/common/_reset.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/common/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/common/classes/_animation.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/common/classes/_clearfix.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/common/classes/_flex.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/common/classes/_grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/common/classes/_horizontal-rules.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/common/classes/_link.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/common/classes/_media.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/common/classes/_overflow.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/common/classes/_pseudo.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/common/classes/_shadow.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/common/classes/_spacing.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/common/classes/_split-line.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/common/classes/_transform.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/common/classes/_transition.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/common/classes/_user-select.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/common/components/_button.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/common/components/_card.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/common/components/_menu.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/common/components/_toc.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/components/_article.content.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/components/_article.info.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/components/_author-profile.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/components/_follow-me.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/components/_footer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/components/_header.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/components/_license.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/components/_main.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/components/_tags.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/layout/_404.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/layout/_archive.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/layout/_article.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/layout/_home.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/layout/_landing.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/layout/_page.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/skins/_chocolate.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/skins/_dark.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/skins/_default.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/skins/_forest.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/skins/_ocean.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/skins/_orange.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/2018/07/01/welcome.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/archive.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/android-chrome-192x192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/android-chrome-512x512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/browserconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/favicon-16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/images/license-cc4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/images/logo/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/images/octocat.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/mstile-144x144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/mstile-150x150.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/mstile-310x150.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/mstile-310x310.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/mstile-70x70.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/safari-pinned-tab.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/site.webmanifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/favicon1.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/index2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/screenshot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/sitemap.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/tools/assert-url.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/tools/dir-tree.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/tools/resize-colors-imgs.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/about.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/android-chrome-192x192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/android-chrome-512x512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/browserconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/main.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/favicon-16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/license-cc4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/logo/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/octocat.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/mstile-144x144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/mstile-150x150.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/mstile-310x150.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/mstile-310x310.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/mstile-70x70.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/safari-pinned-tab.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/site.webmanifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/_config.dev.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/_config.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/_data/authors.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/_data/licenses.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/_data/locale.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/_data/navigation.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/_data/variables.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/cover1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/github-fork.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/github-rename-repo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/leancloud-app-info.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/leancloud-authorization.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/leancloud-create-class-0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/leancloud-create-class-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/realfavicongenerator-path.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/realfavicongenerator-result.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/realfavicongenerator-select-favicon-picture.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/tip_alipay.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/tip_paypal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/tip_wechat.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/en/1.1-quick-start.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/en/1.2-structure.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/en/1.7-update-form-1-to-2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/en/2.1-configuration.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/en/2.2-navigation.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/en/2.3-layouts.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/en/2.4-logo-and-favicon.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/en/2.5-authors.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/en/3.1-writing-posts.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/en/3.2-markdown-enhancements.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/en/3.3-additional-styles.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/landing.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/zh/1.1-quick-start.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/zh/1.7-update-form-1-to-2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/zh/2.1-configuration.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/zh/2.2-navigation.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/zh/2.3-layouts.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/zh/2.4-logo-and-favicon.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/zh/2.5-authors.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/zh/3.1-writing-posts.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/zh/3.2-markdown-enhancements.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/zh/3.3-additional-styles.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favicon1.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jekyll-text-theme.gemspec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/TeXt-card.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/TeXt-details.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/TeXt-home.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/TeXt-layouts.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/TeXt-responsive.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/TeXt-version-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/TeXt.sketch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/origin/skins_chocolate.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/origin/skins_dark.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/origin/skins_default.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/origin/skins_forest.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/origin/skins_ocean.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/origin/skins_orange.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/skins_chocolate.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/skins_dark.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/skins_default.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/skins_forest.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/skins_ocean.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/skins_orange.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/Gemfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/_config.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/_data/authors.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/_data/licenses.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/_data/locale.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/_data/navigation.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/_data/variables.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/_posts/2015-01-01-article-with-long-toc.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/_posts/2015-01-03-article-with-lots-images.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/_posts/2015-01-06-punctuation-characters'.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/_posts/2015-02-02-very-long-title.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/_posts/2016-05-02-horizontal-rules.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/_posts/2016-05-04-footnote.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/_posts/2016-05-05-definition.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/_posts/2016-05-08-blockquotes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/_posts/2016-06-06-lists.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/_posts/2016-06-10-tables.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/_posts/2016-06-16-code-blocks.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/_posts/2016-07-07-images.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/_posts/2016-09-01-links.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/_posts/2016-09-09-emphasis.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/_posts/2016-09-19-headers.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/_posts/2016-10-10-paragraphs.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/_posts/2017-04-03-english.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/_posts/2017-04-12-traditional-chinese.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/_posts/2017-04-13-simplified-chinese.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/_posts/2017-04-15-author.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/_posts/2017-04-19-modify-date.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/_posts/2017-05-05-chart.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/_posts/2017-06-06-mermaid.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/_posts/2017-07-07-mathjax.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/_posts/2017-08-08-additional-styles.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/about.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/archive.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/assets/images/lenna.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/assert-url.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/dir-tree.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/resize-colors-imgs.sh" afterDir="false" />
+    <list default="true" id="23bc87e6-31a5-4420-be6c-bd5db5fa54a1" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/btts_38_erc/assets/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/btts_38_erc/assets/css/font-awesome.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/btts_38_erc/assets/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/btts_38_erc/assets/fonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/btts_38_erc/assets/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/btts_38_erc/assets/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/btts_38_erc/assets/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/btts_38_erc/assets/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/btts_38_erc/assets/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/btts_38_erc/assets/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/btts_38_erc/assets/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/btts_38_erc/assets/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/btts_38_erc/assets/img/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/btts_38_erc/assets/img/me.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/btts_38_erc/assets/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/btts_38_erc/assets/js/jquery-1.11.1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/btts_38_erc/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/svg/icon/social/weibo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/svg/icon/social/weibo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2018/07/01/welcome.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/07/01/welcome.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/archive.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/archive.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.scss" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -339,20 +33,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="44">
-              <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+              <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-734">
-              <caret line="59" column="13" lean-forward="true" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
+            <state relative-caret-position="542">
+              <caret line="39" column="14" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/main.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -384,8 +87,8 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/../btts_38_erc/index.html" />
         <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/assets/css/main.scss" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
@@ -427,17 +130,6 @@
               <item name="iiiiiiiill.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_sass" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="iiiiiiiill.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="iiiiiiiill.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="iiiiiiiill.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="iiiiiiiill.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -455,6 +147,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/css" />
       <recent name="D:\GitPage\IIIIIIIIll.github.io" />
     </key>
   </component>
@@ -495,7 +188,7 @@
       <workItem from="1491167466721" duration="576000" />
       <workItem from="1491178311195" duration="3849000" />
       <workItem from="1530936561311" duration="1949000" />
-      <workItem from="1530942287681" duration="653000" />
+      <workItem from="1530942287681" duration="1418000" />
     </task>
     <task id="LOCAL-00001" summary="TestPage&#10;">
       <created>1491162235256</created>
@@ -546,11 +239,18 @@
       <option name="project" value="LOCAL" />
       <updated>1491181002144</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Theme selection">
+      <created>1530943008171</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1530943008171</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10237000" />
+    <option name="totallyTimeSpent" value="11002000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="32" width="1600" height="868" extended-state="6" />
@@ -641,24 +341,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-734">
-          <caret line="59" column="13" lean-forward="true" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
-          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/additional/_alert.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="542">
+          <caret line="39" column="14" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
         </state>
       </provider>
     </entry>
