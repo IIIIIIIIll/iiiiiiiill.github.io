@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23bc87e6-31a5-4420-be6c-bd5db5fa54a1" name="Default" comment="Theme selection">
-      <change afterPath="$PROJECT_DIR$/_posts/2018-7-10-New-Camera!.md" afterDir="false" />
+    <list default="true" id="23bc87e6-31a5-4420-be6c-bd5db5fa54a1" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -28,7 +27,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="228">
-                <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+                <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -41,8 +40,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-7-10-New-Camera!.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="171">
-                <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+              <first_editor relative-caret-position="190">
+                <caret line="10" selection-start-line="10" selection-end-line="10" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -130,6 +129,11 @@
               <item name="Blog" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Blog" type="462c0819:PsiDirectoryNode" />
+              <item name="pics" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -196,7 +200,7 @@
       <workItem from="1530954297251" duration="2165000" />
       <workItem from="1530958048922" duration="3169000" />
       <workItem from="1531035816728" duration="411000" />
-      <workItem from="1531234148996" duration="515000" />
+      <workItem from="1531234148996" duration="760000" />
     </task>
     <task id="LOCAL-00001" summary="TestPage&#10;">
       <created>1491162235256</created>
@@ -268,11 +272,18 @@
       <option name="project" value="LOCAL" />
       <updated>1530965435260</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Theme selection">
+      <created>1531234902452</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1531234902452</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19455000" />
+    <option name="totallyTimeSpent" value="19700000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="68" y="-7" width="1219" height="735" extended-state="6" />
@@ -364,7 +375,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="228">
-            <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+            <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -375,8 +386,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-7-10-New-Camera!.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="171">
-            <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <first_editor relative-caret-position="190">
+            <caret line="10" selection-start-line="10" selection-end-line="10" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
