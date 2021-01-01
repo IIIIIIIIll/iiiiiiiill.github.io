@@ -1,7 +1,8 @@
 ---
-layout: article titile:
-author: Yuanhai Tan 
-license: true 
+layout: article
+titile:
+author: Yuanhai Tan
+license: true
 tags: Miscs
 ---
 我认为最重要的是~~改变世界的畅想~~ 将畅想变为现实的力量

@@ -1,6 +1,6 @@
 ---
 layout: article
-titile: 
+titile:
 author: Yuanhai Tan
 license: true
 tags: University
